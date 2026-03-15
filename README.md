@@ -7,7 +7,7 @@ When a train approaches the signal, the IR sensor detects it and sends a signal 
 ⚠️ Project Status: In Progress (Prototype / Base Model)
 
 ## Project Image
-![Railway Signal](RAILWAY SIGNAL AUTOMATION/Project2.jpeg)
+![Railway Signal](RAILWAY%20SIGNAL%20AUTOMATION/Project2.jpeg)
 
 ## Project Demo Video
 [Watch Demo Video](https://drive.google.com/file/d/1wEk9CUfs_JB4yeJpBeUzUVkbvnIXnr74/view?usp=drive_link)
